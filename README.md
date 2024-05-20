@@ -1,6 +1,6 @@
 
-# AfameTechnologies_SalesData
-Sales Data at Afame Technologies 
+# AfameTechnologies_SalesDataAnalysis
+Sales Data Analysis at Afame Technologies 
 # Overview 
 This project aims to analyze sales data to gain insights into sales performance, customer behavior and other key metrics. The dataset used for analysis contains information about the sales transactions, including order details, customer information, product categories and sales figures.
 # Project Structure
